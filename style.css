@@ -31,3 +31,9 @@ canvas{
     border-radius: 20px;
     box-shadow:5px 5px 5px  violet;
 }
+#camera 
+{
+  border:2px dashed deeppink;
+  width: 350px;
+  height: 300px; 
+}
